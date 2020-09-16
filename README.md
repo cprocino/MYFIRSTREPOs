@@ -1,6 +1,5 @@
 # MYFIRSTREPOs
 ## chris
-*italicized text*
 chris
 : a coding prodigy
 
