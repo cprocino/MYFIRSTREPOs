@@ -1,3 +1,3 @@
 # MYFIRSTREPOs
 ## chris
-https://www.markdownguide.org/cheat-sheet/
+[cheats] https://www.markdownguide.org/cheat-sheet/
